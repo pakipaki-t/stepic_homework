@@ -1,1 +1,1 @@
-# stepic_homework    урс selenium от stepic
+# stepic_homework   homework from previous module
